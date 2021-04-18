@@ -1,0 +1,22 @@
+body{
+    width:800px;
+    background-color: #f3f4f5;
+    text-align: left;
+    margin:auto;
+    text-align: justify;
+}
+h1 {
+    color: rgb(10, 10, 10);
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+li, p{
+    color:#757575;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.center {
+    display: block;
+    margin:auto;
+}
